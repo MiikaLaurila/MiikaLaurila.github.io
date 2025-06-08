@@ -117,6 +117,13 @@ object-assign
  */
 
 /*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <https://feross.org>
+ * @license  MIT
+ */
+
+/*!
  * pixi-viewport - v4.38.0
  * Compiled Sun, 27 Nov 2022 13:43:58 UTC
  *
@@ -150,3 +157,5 @@ PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
 
 /*! https://mths.be/punycode v1.4.1 by @mathias */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
